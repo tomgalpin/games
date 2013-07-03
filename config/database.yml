@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: games_development
+  pool: 5
+  username: tomgalpin
+  host: localhost
+  password:
